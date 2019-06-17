@@ -1,0 +1,12 @@
+.nav-item:hover{
+	background-color: grey;
+}
+.bg-grey{
+	background-color: rgb(60,64,70);
+}
+.bg-gray{
+	background-color: grey;
+}
+body{
+	background-color: rgb(95,95,95);
+}
